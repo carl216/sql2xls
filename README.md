@@ -1,6 +1,6 @@
 # sql2xls
 运行环境linux php
-目录 
+目录
 phpexcel  phpexcel库
 templates 存放xls文件生成模板
 sql2xls.php 执行脚本
